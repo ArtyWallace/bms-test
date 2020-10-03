@@ -1,0 +1,1 @@
+export const dateFilter = value => new Date(+value).toLocaleDateString();
